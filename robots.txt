@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://transfermarkt-prognosen.de/sitemap.xml
